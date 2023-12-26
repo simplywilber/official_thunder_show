@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  transition-duration: 200ms;
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+::selection{
+  background: gray;
+}
