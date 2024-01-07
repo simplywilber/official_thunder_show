@@ -4,6 +4,8 @@
 
 > Welcome to Thunder Show, a full-stack e-commerce application that redefines modern sports apparel, founded in December 2023. Drawing inspiration from the resilience witnessed in naval thunderstorms, Thunder Show seamlessly integrates front-end and back-end technologies to deliver a unique and dynamic experience.
 
+<a href="https://thundershow.netlify.app">View Live Website</a>
+
 ## About The Project
 
 <p style="text-align: center;">
